@@ -1,2 +1,2 @@
 # HHgit
-this is test for new branches
+this is a test project merged new branches
